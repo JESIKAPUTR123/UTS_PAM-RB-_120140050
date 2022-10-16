@@ -12,5 +12,6 @@ Berikut link yang digunakan untuk mengintal aplikasi di android masing-masing:<b
 https://expo.dev/artifacts/f398d0f2-cb7e-4083-8ed2-d2d41859e2b7 <br/>
 
 #Screenshoot Aplikasi <br/>
-![Screenshot (829)](https://user-images.githubusercontent.com/97590486/192996047-539f18f8-ecd6-4e2b-8ddc-0ddcce12a10b.png)
+![WhatsApp Image 2022-10-16 at 20 23 37](https://user-images.githubusercontent.com/97590486/196038733-46eb418b-31d6-4f44-9dc2-4cbf4257c2b0.jpeg)
+![WhatsApp Image 2022-10-16 at 20 23 31](https://user-images.githubusercontent.com/97590486/196038918-e60ec428-fbed-4929-924e-e116d4152c7e.jpeg)
 
