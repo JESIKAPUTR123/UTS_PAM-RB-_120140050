@@ -11,8 +11,7 @@ Pada aplikasi ini menggunakan bantuan:<br/>
 Berikut link yang digunakan untuk mengintal aplikasi di android masing-masing:<br/>
 https://expo.dev/artifacts/f398d0f2-cb7e-4083-8ed2-d2d41859e2b7 <br/>
 Berikut link penduan demo dan instalasi aplikasi: <br/>
-https://drive.google.com/drive/folders/1ZpE8v6UZB9qxFdHdyTbIhlS6
-Uhw2LVwS?usp=sharing <br/>
+https://drive.google.com/drive/folders/1ZpE8v6UZB9qxFdHdyTbIhlS6Uhw2LVwS?usp=sharing <br/>
 
 #Screenshoot Aplikasi <br/>
 ![WhatsApp Image 2022-10-16 at 20 23 37](https://user-images.githubusercontent.com/97590486/196038733-46eb418b-31d6-4f44-9dc2-4cbf4257c2b0.jpeg)
